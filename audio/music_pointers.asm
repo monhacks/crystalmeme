@@ -109,8 +109,7 @@ Music:
 	dba Music_Shop
 	dba Music_Intermission
 	dba Music_CinnabarMansion
-	dba Music_BlackCity
-	dba Music_DewfordTown
-	dba Music_EternaForest
-	dba Music_StarkMountain
-
+;	dba Music_BlackCity
+;	dba Music_DewfordTown
+;	dba Music_EternaForest
+;	dba Music_StarkMountain
